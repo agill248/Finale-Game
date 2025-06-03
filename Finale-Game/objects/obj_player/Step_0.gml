@@ -1,25 +1,20 @@
-
-var playerSpeed = slowDown ? 2 : 5; 
-// Define player speed
-var playerSpeed = 5; 
-
-// Horizontal Movement
-if (keyboard_check(ord("A"))) { 
-    motion_set(180, playerSpeed); 
-} 
-else if (keyboard_check(ord("D"))) { 
-    motion_set(0, playerSpeed);
+if keyboard_check(vk_left)
+{
+        xsp = -1
 }
 
-// Vertical Movement
-else if (keyboard_check(ord("W"))) { 
-    motion_set(90, playerSpeed);
-}
-else if (keyboard_check(ord("S"))) { 
-    motion_set(270, playerSpeed);
+if keyboard_check(vk_right)
+{
+        xsp = +1
 }
 
-// If no key is pressed
-else {
-    motion_set(0, 0);
+if place_meeting(x, y+1, obj_ground)
+{
+        ysp = 0
+        if keyboard_check(vk_up)
+        {
+                ysp = -2        
+        }
 }
+
+move_and_collide(xsp, ysp, obj_ground)
