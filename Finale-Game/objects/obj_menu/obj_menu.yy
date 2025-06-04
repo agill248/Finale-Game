@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_gotogame",
+  "name": "obj_menu",
   "spriteId": {
-    "name": "spr_gotogame",
-    "path": "sprites/spr_gotogame/spr_gotogame.yy",
+    "name": "spr_empty",
+    "path": "sprites/spr_empty/spr_empty.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
