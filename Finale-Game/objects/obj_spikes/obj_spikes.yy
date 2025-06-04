@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_spikes",
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_spikes",
+    "path": "sprites/spr_spikes/spr_spikes.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
