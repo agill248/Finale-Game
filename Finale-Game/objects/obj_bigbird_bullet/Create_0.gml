@@ -1,0 +1,1 @@
+move_towards_point(obj_elmo.x, obj_elmo.y, 10);
