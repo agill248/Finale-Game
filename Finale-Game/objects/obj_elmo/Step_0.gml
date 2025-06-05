@@ -37,3 +37,8 @@ if (mouse_check_button(mb_left) && fire_timer <= 0) {
     // Reset the cooldown
     fire_timer = fire_rate;
 }
+
+//########## LOSING ##########
+if (y > room_height + 20) {
+	room_restart();
+}
