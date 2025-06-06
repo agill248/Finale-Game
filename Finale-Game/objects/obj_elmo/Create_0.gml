@@ -1,4 +1,4 @@
-// Inside the Create event of obj_elmo
+// Speed
 xspd = 0;
 vspd = 0;
 ysp = 0;

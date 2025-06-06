@@ -1,2 +1,2 @@
-audio_sound_play(snd_bgmusic1, true)
+audio_play_sound(snd_bgmusic1, 1, false)
 
