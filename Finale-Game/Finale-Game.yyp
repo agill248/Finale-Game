@@ -24,6 +24,7 @@
     {"id":{"name":"spr_elmoblock","path":"sprites/spr_elmoblock/spr_elmoblock.yy",},"order":18,},
     {"id":{"name":"Sprite17","path":"sprites/Sprite17/Sprite17.yy",},"order":16,},
     {"id":{"name":"spr_controls","path":"sprites/spr_controls/spr_controls.yy",},"order":8,},
+    {"id":{"name":"snd_bgmusic1","path":"sounds/snd_bgmusic1/snd_bgmusic1.yy",},"order":0,},
     {"id":{"name":"obj_elmo_car","path":"objects/obj_elmo_car/obj_elmo_car.yy",},"order":14,},
     {"id":{"name":"obj_mouse","path":"objects/obj_mouse/obj_mouse.yy",},"order":13,},
     {"id":{"name":"spr_63rd","path":"sprites/spr_63rd/spr_63rd.yy",},"order":15,},
@@ -39,6 +40,7 @@
     {"id":{"name":"spr_ground","path":"sprites/spr_ground/spr_ground.yy",},"order":1,},
     {"id":{"name":"rm_controls","path":"rooms/rm_controls/rm_controls.yy",},"order":4,},
     {"id":{"name":"spr_elmo_bullet","path":"sprites/spr_elmo_bullet/spr_elmo_bullet.yy",},"order":10,},
+    {"id":{"name":"obj_bgmusic1","path":"objects/obj_bgmusic1/obj_bgmusic1.yy",},"order":15,},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},"order":0,},
   ],
   "Options": [
