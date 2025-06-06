@@ -24,6 +24,7 @@
     {"id":{"name":"spr_elmoblock","path":"sprites/spr_elmoblock/spr_elmoblock.yy",},"order":18,},
     {"id":{"name":"Sprite17","path":"sprites/Sprite17/Sprite17.yy",},"order":16,},
     {"id":{"name":"spr_controls","path":"sprites/spr_controls/spr_controls.yy",},"order":8,},
+    {"id":{"name":"obj_slowdown","path":"objects/obj_slowdown/obj_slowdown.yy",},"order":16,},
     {"id":{"name":"snd_bgmusic1","path":"sounds/snd_bgmusic1/snd_bgmusic1.yy",},"order":0,},
     {"id":{"name":"obj_elmo_car","path":"objects/obj_elmo_car/obj_elmo_car.yy",},"order":14,},
     {"id":{"name":"obj_mouse","path":"objects/obj_mouse/obj_mouse.yy",},"order":13,},
