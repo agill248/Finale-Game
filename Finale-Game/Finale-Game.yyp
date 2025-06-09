@@ -16,6 +16,7 @@
     {"id":{"name":"spr_elmo_car","path":"sprites/spr_elmo_car/spr_elmo_car.yy",},"order":14,},
     {"id":{"name":"spr_mouse","path":"sprites/spr_mouse/spr_mouse.yy",},"order":13,},
     {"id":{"name":"obj_enemy2","path":"objects/obj_enemy2/obj_enemy2.yy",},"order":6,},
+    {"id":{"name":"obj_bigbirdcar","path":"objects/obj_bigbirdcar/obj_bigbirdcar.yy",},"order":18,},
     {"id":{"name":"obj_play","path":"objects/obj_play/obj_play.yy",},"order":8,},
     {"id":{"name":"spr_menu","path":"sprites/spr_menu/spr_menu.yy",},"order":7,},
     {"id":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},"order":1,},

@@ -38,8 +38,7 @@ if (fire_timer > 0) {
 if (mouse_check_button(mb_left) && fire_timer <= 0) {
     // Fire the bullet
     instance_create_layer(x, y, "Instances", obj_elmo_bullet); // or your method
-	// Make bullet sound
-	audio_play_sound(snd_gunshot, 1, false);
+
     // Reset the cooldown
     fire_timer = fire_rate;
 }
