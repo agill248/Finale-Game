@@ -1,1 +1,1 @@
-motion_set(0, 0);
+move_bounce_solid(true);
