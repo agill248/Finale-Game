@@ -13,7 +13,7 @@ if (is_slowed) {
 }
 
 // Rotation speed in degrees per step
-var rotation_speed = 4; 
+var rotation_speed = 3; 
 
 // Move forward when W is pressed
 if (keyboard_check(ord("W"))) {
