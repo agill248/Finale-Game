@@ -11,3 +11,9 @@ if keyboard_check(ord("D"))
         image_angle -= 4;
 }
 
+
+if (slowDown) {
+    var slowDown = 0.8; // Adjust this to fine-tune slowdown
+    xspd *= slowDown;
+    vspd *= slowDown;
+}
