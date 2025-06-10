@@ -1,7 +1,7 @@
 // Slowdown ( if confused watch navidrct on yt )
-slowDown = !slowDown;
+global.slowDown = !global.slowDown;
 
-if (slowDown) {
+if (global.slowDown) {
     room_speed = defaultRoomSpeed / 3; 
 } else {
     room_speed = defaultRoomSpeed; 

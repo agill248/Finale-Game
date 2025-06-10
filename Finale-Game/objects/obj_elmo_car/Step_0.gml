@@ -12,8 +12,8 @@ if keyboard_check(ord("D"))
 }
 
 
-if (slowDown) {
-    var slowDown = 0.8; // Adjust this to fine-tune slowdown
-    xspd *= slowDown;
-    vspd *= slowDown;
+if (global.slowDown) {
+    var global.slowDown = 0.8; // Adjust this to fine-tune slowdown
+    xspd *= global.slowDown;
+    vspd *= global.slowDown;
 }
