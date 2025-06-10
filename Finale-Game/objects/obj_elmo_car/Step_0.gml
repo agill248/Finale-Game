@@ -10,3 +10,4 @@ if keyboard_check(ord("D"))
 {
         image_angle -= 4;
 }
+

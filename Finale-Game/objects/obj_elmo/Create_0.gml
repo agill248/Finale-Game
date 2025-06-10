@@ -4,6 +4,7 @@ vspd = 0;
 ysp = 0;
 
 
+
 // setting amount of hearts
 hearts = 3;
 
