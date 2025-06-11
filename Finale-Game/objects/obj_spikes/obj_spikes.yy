@@ -7,7 +7,7 @@
     "path": "sprites/spr_spikes/spr_spikes.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
