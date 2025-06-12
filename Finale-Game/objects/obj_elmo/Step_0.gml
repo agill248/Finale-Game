@@ -4,7 +4,6 @@ vspd = slowDown ? vspd * 0.4 : vspd;
 
 
 // ################## POWER UP ######################
-// obj_elmo - Step Event
 xspd += room_speed * speed_multiplier;
 
 
