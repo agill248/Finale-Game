@@ -29,3 +29,17 @@ if (keyboard_check(ord("A"))) {
 if (keyboard_check(ord("D"))) {
     image_angle -= rotation_speed;
 }
+
+//########## SHOOTING ########## 
+// Shoot bullets
+// Reduce fire_timer by the time that passed since the last frame
+if (fire_timer > 0) {
+    fire_timer -= delta_time / 1000000; // delta_time is in microseconds
+}
+if (mouse_check_button(mb_left) && fire_timer <= 0) {
+    // Fire the bullet
+    instance_create_layer(x, y, "Instances", obj_elmo_bullet); // or your method
+
+    // Reset the cooldown
+    fire_timer = fire_rate;
+}
