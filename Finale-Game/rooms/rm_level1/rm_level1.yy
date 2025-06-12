@@ -21,6 +21,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6921EC8E","properties":[],"isDnd":false,"objectId":{"name":"obj_next_room","path":"objects/obj_next_room/obj_next_room.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.5,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1120.0,"y":704.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_642CAEAC","properties":[],"isDnd":false,"objectId":{"name":"obj_cookiemonster","path":"objects/obj_cookiemonster/obj_cookiemonster.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":416.0,"y":704.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_55A8C88C","properties":[],"isDnd":false,"objectId":{"name":"obj_elmo","path":"objects/obj_elmo/obj_elmo.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.5,"scaleY":1.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":160.0,"y":672.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4B68EC0","properties":[],"isDnd":false,"objectId":{"name":"obj_powerup","path":"objects/obj_powerup/obj_powerup.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":608.0,"y":704.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Assets_1","assets":[
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_6CC24132","spriteId":{"name":"spr_sign","path":"sprites/spr_sign/spr_sign.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":3.9999998,"scaleY":3.9999998,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":960.0,"y":512.0,},
@@ -37,6 +38,7 @@
     {"name":"inst_6921EC8E","path":"rooms/rm_level1/rm_level1.yy",},
     {"name":"inst_642CAEAC","path":"rooms/rm_level1/rm_level1.yy",},
     {"name":"inst_55A8C88C","path":"rooms/rm_level1/rm_level1.yy",},
+    {"name":"inst_4B68EC0","path":"rooms/rm_level1/rm_level1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

@@ -3,6 +3,12 @@ xspd = slowDown ? xspd * 0.4 : xspd;
 vspd = slowDown ? vspd * 0.4 : vspd; 
 
 
+// ################## POWER UP ######################
+// obj_elmo - Step Event
+xspd += room_speed * speed_multiplier;
+
+
+
 //########## MOVEMENT ##########
 // Making character sttionary when no key is pressed
 ysp += 0.25
