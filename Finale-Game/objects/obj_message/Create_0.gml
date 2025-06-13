@@ -1,0 +1,1 @@
+alarm[0] = room_speed * 5; // room_speed is frames per second (default 30 or 60)
