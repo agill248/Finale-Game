@@ -21,6 +21,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_55A8C88C_1","properties":[],"isDnd":false,"objectId":{"name":"obj_elmo","path":"objects/obj_elmo/obj_elmo.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.5,"scaleY":1.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":160.0,"y":672.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_285F30B5","properties":[],"isDnd":false,"objectId":{"name":"obj_grover","path":"objects/obj_grover/obj_grover.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.053999957,"scaleY":0.053999957,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":480.0,"y":672.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3D15B02B","properties":[],"isDnd":false,"objectId":{"name":"obj_nextlvl","path":"objects/obj_nextlvl/obj_nextlvl.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":13.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1312.0,"y":0.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_11CFC36B","properties":[],"isDnd":false,"objectId":{"name":"obj_creepy","path":"objects/obj_creepy/obj_creepy.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":672.0,"y":256.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Assets_1","assets":[
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_36027E5F_1","spriteId":{"name":"spr_elmoblock","path":"sprites/spr_elmoblock/spr_elmoblock.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":5.0,"scaleY":5.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":448.0,},
@@ -36,6 +37,7 @@
     {"name":"inst_55A8C88C_1","path":"rooms/rm_level3/rm_level3.yy",},
     {"name":"inst_285F30B5","path":"rooms/rm_level3/rm_level3.yy",},
     {"name":"inst_3D15B02B","path":"rooms/rm_level3/rm_level3.yy",},
+    {"name":"inst_11CFC36B","path":"rooms/rm_level3/rm_level3.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
