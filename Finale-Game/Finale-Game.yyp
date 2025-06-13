@@ -43,6 +43,7 @@
     {"id":{"name":"obj_mouse","path":"objects/obj_mouse/obj_mouse.yy",},"order":13,},
     {"id":{"name":"spr_63rd","path":"sprites/spr_63rd/spr_63rd.yy",},"order":15,},
     {"id":{"name":"obj_bigbird_bullet","path":"objects/obj_bigbird_bullet/obj_bigbird_bullet.yy",},"order":11,},
+    {"id":{"name":"spr_fight","path":"sprites/spr_fight/spr_fight.yy",},"order":30,},
     {"id":{"name":"obj_spikes","path":"objects/obj_spikes/obj_spikes.yy",},"order":3,},
     {"id":{"name":"obj_next_room","path":"objects/obj_next_room/obj_next_room.yy",},"order":12,},
     {"id":{"name":"obj_cookiemonster2","path":"objects/obj_cookiemonster2/obj_cookiemonster2.yy",},"order":25,},
