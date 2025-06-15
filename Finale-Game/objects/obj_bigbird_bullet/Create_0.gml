@@ -1,1 +1,1 @@
-move_towards_point(obj_elmo.x, obj_elmo.y, 10);
+move_towards_point(obj_elmo_car.x, obj_elmo_car.y, 10);

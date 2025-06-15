@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_elmo_car",
+  "name": "obj_elmo_tank",
   "spriteId": {
-    "name": "spr_elmo_car",
-    "path": "sprites/spr_elmo_car/spr_elmo_car.yy",
+    "name": "spr_bigbirdcar",
+    "path": "sprites/spr_bigbirdcar/spr_bigbirdcar.yy",
   },
   "solid": false,
   "visible": true,
@@ -33,7 +33,7 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_fire","path":"objects/obj_fire/obj_fire.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_slowdown","path":"objects/obj_slowdown/obj_slowdown.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_next_room","path":"objects/obj_next_room/obj_next_room.yy",},},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_bigbird_bullet","path":"objects/obj_bigbird_bullet/obj_bigbird_bullet.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_bigbird_bullet2","path":"objects/obj_bigbird_bullet2/obj_bigbird_bullet2.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":64,"eventType":8,"collisionObjectId":null,},
   ],
   "properties": [],

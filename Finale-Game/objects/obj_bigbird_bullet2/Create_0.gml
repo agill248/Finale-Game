@@ -1,0 +1,1 @@
+move_towards_point(obj_elmo_tank.x, obj_elmo_tank.y, 10);
