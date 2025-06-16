@@ -39,6 +39,7 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_elmotalk2","path":"objects/obj_elmotalk2/obj_elmotalk2.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_elmotalk3","path":"objects/obj_elmotalk3/obj_elmotalk3.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_takefinal","path":"objects/obj_takefinal/obj_takefinal.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_elmotalk4","path":"objects/obj_elmotalk4/obj_elmotalk4.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],
