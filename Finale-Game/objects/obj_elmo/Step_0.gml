@@ -3,9 +3,6 @@ xspd = slowDown ? xspd * 0.4 : xspd;
 vspd = slowDown ? vspd * 0.4 : vspd; 
 
 
-// ################## POWER UP ######################
-xspd += room_speed * speed_multiplier;
-
 
 
 //########## MOVEMENT ##########

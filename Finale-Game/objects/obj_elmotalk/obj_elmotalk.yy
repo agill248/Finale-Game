@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_powerup",
+  "name": "obj_elmotalk",
   "spriteId": {
-    "name": "spr_powerup",
-    "path": "sprites/spr_powerup/spr_powerup.yy",
+    "name": "spr_elmotalk",
+    "path": "sprites/spr_elmotalk/spr_elmotalk.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,

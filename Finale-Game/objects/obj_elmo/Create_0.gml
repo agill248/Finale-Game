@@ -2,7 +2,7 @@
 xspd = 0;
 vspd = 0;
 ysp = 0;
-speed_multiplier = 4;
+
 
 
 
