@@ -1,2 +1,3 @@
 room_goto(rm_finale)
 audio_stop_sound(snd_bgmusic1)
+instance_destroy(obj_darkness)
