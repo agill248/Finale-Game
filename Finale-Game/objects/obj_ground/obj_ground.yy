@@ -7,7 +7,7 @@
     "path": "sprites/spr_ground/spr_ground.yy",
   },
   "solid": true,
-  "visible": true,
+  "visible": false,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
