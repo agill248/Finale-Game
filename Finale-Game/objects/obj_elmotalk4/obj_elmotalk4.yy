@@ -7,7 +7,7 @@
     "path": "sprites/spr_elmotalk4/spr_elmotalk4.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
