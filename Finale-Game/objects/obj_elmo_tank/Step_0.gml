@@ -44,6 +44,6 @@ if (mouse_check_button(mb_left) && fire_timer <= 0) {
     fire_timer = fire_rate;
 }
 
-if health == 0 {
+if elmo_health == 0 {
 room_restart()
 }
