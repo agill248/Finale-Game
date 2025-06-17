@@ -1,4 +1,4 @@
-health -= 10;
-if (health < 0) {
-    health = 0;
+elmo_health -= 10;
+if (elmo_health < 0) {
+    elmo_health = 0;
 }

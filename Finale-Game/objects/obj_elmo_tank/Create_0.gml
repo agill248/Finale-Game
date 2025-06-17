@@ -10,6 +10,6 @@ is_slowed = false;       // Flag to check if the object is slowed down
 fire_rate = 1.5; // seconds between shots (e.g. 5 shots per second)
 fire_timer = 0;  // time remaining before next shot
 
-health = 100;
+elmo_health = 100;
 max_health = 100;
 

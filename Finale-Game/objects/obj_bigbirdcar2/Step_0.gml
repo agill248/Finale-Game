@@ -27,3 +27,7 @@ if (slow_timer > 0) {
         current_speed = speed;
     }
 }
+
+if (big_health = 0){
+room_goto(rm_finale)
+}

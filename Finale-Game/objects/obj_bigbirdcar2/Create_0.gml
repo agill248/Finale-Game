@@ -10,3 +10,4 @@ current_speed = speed;
 slow_timer = 0;
 
 // setting amount of hearts
+big_health = 200;

@@ -27,6 +27,8 @@
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_ground","path":"objects/obj_ground/obj_ground.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_bigbirdcar","path":"objects/obj_bigbirdcar/obj_bigbirdcar.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_bigbirdcar2","path":"objects/obj_bigbirdcar2/obj_bigbirdcar2.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],
